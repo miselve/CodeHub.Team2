@@ -108,14 +108,14 @@ The prices of the services are individualy listed below:
 | **Total Cost \(Over 5 Years\)**    | 54,439\.8€| 38,447\.01€    |
 
 Overall, while the On-Premise option might appear cheaper, it lacks the cost calculation for substitute services to replace Azure services like EntraID, WAF etc.
-In addition, the On-Premise calculation is estimated over a 5 year span. It wont take into account any potential hardware failiures or cost fluctuations.
+In addition, the On-Premise calculation is estimated over a 5 year span. It won't take into account any potential hardware failiures or cost fluctuations.
 
 
 ## Project conclusions
 This project provided hands-on experience with Azure, presenting it as a viable alternative to on-premises setups. While Azure offers flexibility and scalability, on-premises remains cost-effective over time. The demanding yet rewarding experience deepened our understanding of both options, preparing us for diverse, future infrastructure needs.
 
 ## Credits
-This project was made possiblle with the valueable contribution of the Following members:
+This project was made possiblle with the valueable contribution of the following members:
 * Dimitris Manos
 * Michail Selvesakis
 * Apostolos Kefalos
