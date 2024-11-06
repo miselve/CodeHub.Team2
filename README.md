@@ -117,7 +117,7 @@ This project provided hands-on experience with Azure, presenting it as a viable 
 ## Credits
 This project was made possiblle with the valueable contribution of the following members:
 * Dimitris Manos
-* Michail Selvesakis
-* Apostolos Kefalos
-* Euaggelia Maria Kaia
+* Michail Selvesakis    [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/michael-selvesakis-010b65242/)
+* Apostolos Kefalos     [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/apostkef/)
+* Euaggelia Maria Kaia  
 * Christos Kerigkas
