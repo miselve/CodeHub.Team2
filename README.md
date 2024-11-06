@@ -92,20 +92,20 @@ The prices of the services are individualy listed below:
 ### On-Premise
 | **Service Name** | **Cost over 5 Years**  | **Estimated Monthly (Over 5 Years)** | 
 |------------------|------------------------|--------------------------------------|
-| Compute          | 17,384\.46€            | 289\.74€                             |
+| Compute          | 15,926\.58€            | 265\.44€                             |
 | Data Center      | 11,077\.10€            | 184\.61€                             |
-| Networking       | 2,408\.40€             | 40\.14€                              |
-| Storage          | 2,310\.21€             | 38\.50€                              |
-| IT Labor         | 5,255\.94€             | 87\.58€                              |
+| Networking       | 1,574\.95€             | 26\.24€                              |
+| Storage          | 2,088\.48€             | 34\.80€                              |
+| IT Labor         | 3,510\.95€             | 58\.51€                              |
 |                  |                        |                                      |
-| **Total:**       | **38,447\.01€**        | **640\.78€**                         |
+| **Total:**       | **34,177\.90€**        | **569\.63€**                         |
 
 
 
 ### Cost Comparison
 |                                    | **Azure** | **On\-Premise** |
 |------------------------------------|-----------|-----------------|
-| **Total Cost \(Over 5 Years\)**    | 54,439\.8€| 38,447\.01€    |
+| **Total Cost \(Over 5 Years\)**    | 54,439\.8€| 34,177\.90€    |
 
 Overall, while the On-Premise option might appear cheaper, it lacks the cost calculation for substitute services to replace Azure services like EntraID, WAF etc.
 In addition, the On-Premise calculation is estimated over a 5 year span. It won't take into account any potential hardware failiures or cost fluctuations.
