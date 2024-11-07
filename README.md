@@ -119,5 +119,5 @@ This project was made possiblle with the valueable contribution of the following
 * Dimitris Manos
 * Michail Selvesakis    [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/michael-selvesakis-010b65242/)
 * Apostolos Kefalos     [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/apostkef/)
-* Euaggelia Maria Kaia  
-* Christos Kerigkas
+* Euaggelia Maria Kaia  [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/evangelia-kaia-85118322b/)
+* Christos Kerigkas     [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/χρήστος-κέριγκας-452205211/)
